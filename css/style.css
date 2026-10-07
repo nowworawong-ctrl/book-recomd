@@ -3,6 +3,16 @@ h1 {
   font-weight: 400;
   font-style: normal;
 }
+h2 {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h3 {
+  font-family: "Mali", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
 p {
   font-family: "Mali", cursive;
   font-weight: 400;
